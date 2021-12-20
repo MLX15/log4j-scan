@@ -128,8 +128,6 @@ The project is licensed under MIT License.
 
 # Author
 *Mazin Ahmed*
-* Email: *mazin at FullHunt.io*
 * FullHunt: [https://fullhunt.io](https://fullhunt.io)
 * Website: [https://mazinahmed.net](https://mazinahmed.net)
-* Twitter: [https://twitter.com/mazen160](https://twitter.com/mazen160)
-* Linkedin: [http://linkedin.com/in/infosecmazinahmed](http://linkedin.com/in/infosecmazinahmed)
+
